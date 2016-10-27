@@ -11,7 +11,7 @@ import java.util.Iterator;
 public class MyJavaHomework {
     
     void testMyCode(){
-        System.out.println("Just trying to see if the github stuff works.");
+        System.out.println("Github, Please show this code!!!!");
     }
         
     public static void main(String[] args) {
