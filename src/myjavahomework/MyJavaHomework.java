@@ -9,6 +9,10 @@ import java.util.Collection;
 import java.util.Iterator;
 
 public class MyJavaHomework {
+    
+    void testMyCode(){
+        System.out.println("Just trying to see if the github stuff works.");
+    }
         
     public static void main(String[] args) {
         Collection<Integer> value = new ArrayList<Integer>();
