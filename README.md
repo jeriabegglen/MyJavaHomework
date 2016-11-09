@@ -15,5 +15,7 @@ URL to tests:
 
 URL to Tests without kiss:
 
+https://github.com/jeriabegglen/collection/tree/master/CollectionAssignment
+
 
 
