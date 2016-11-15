@@ -8,6 +8,7 @@ I made a collection to convert seconds into hours, minutes, and seconds.  I stru
 https://github.com/jeriabegglen/MyJavaHomework/tree/InitialCollectionAssignment/src/myjavahomework
 
 #### Part 2 of Assignment:  do tests on your collection.
+  I couldn't think of very many tests to do on my collection.
 
 URL to tests:
 
