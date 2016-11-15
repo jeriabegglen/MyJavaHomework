@@ -11,6 +11,8 @@ https://github.com/jeriabegglen/MyJavaHomework/tree/InitialCollectionAssignment/
 
 URL to tests:
 
+https://github.com/jeriabegglen/collection/tree/master/CollectionAssignment
+
 #### Part 3 of Assignment:  make it work without kiss library.
 
 URL to Tests without kiss:
