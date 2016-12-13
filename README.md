@@ -32,6 +32,11 @@ URL to Final:
 
 https://github.com/jeriabegglen/JavaFinal
 
+  I had a hard time trying to come up with tests to add to the tictactoe game after I completed it, as well as how to change the code I wrote to be more object oriented.  I think it would be easier to rewrite the entire tic tac toe game than to try to change it to incorporate those things, I just didn't have that kind of time to rewrite it.
+  I know a big part of Java is that it is object oriented and that you wanted us to learn test driven design.  So I wrote a small java class with a junit class to illistrate that I learned and understand the most important aspects of the course and what you wanted us to take away from it.  I hope this is an accceptable way demonstrate what I have learned this semester and hope that it will be factored in when determining my grade for the final project.  Thank you Dr. MacEvoy.  :)
+
+https://github.com/jeriabegglen/tests
+
 
 
 
